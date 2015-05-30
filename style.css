@@ -1,14 +1,18 @@
-.red {
-    color:red;
+.yellow {
+    color:gold;
 }
 #blue{
     color:blue;
     font-family:arial;
     font-size: 13px;
 }
+#title{
+    color:teal;
+}
 body {
     background-color:#800000;
     color:white;
+    font-family:arial;
 }
 #pic{
     width:350px;
