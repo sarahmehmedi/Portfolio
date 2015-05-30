@@ -7,9 +7,12 @@
 	<h1> Sarah Mehmedi </h1>
 	<h2 class="yellow"> About </h2>
 	<p>Hi! My name is Sarah Mehmedi and I am currently studying Computer Science at Loyola University in Chicago. My interests include development of the front end because it is great to see the progress. I strive to make everything functional and without any imperfections.</p>
-
+    <h2 class="yellow">
+        <a href="resume.pdf" class="yellow" target="_blank">Click For Resume</a>
+    </h2>
     <a href="http://www.google.com" target="_blank">GOOGLE</a>
     <img src="self.jpg" alt="Sarah" id="pic">
+
 
     <h2 class="yellow">Connect With Me!</h2>
     <table>
