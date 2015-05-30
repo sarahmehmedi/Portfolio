@@ -1,0 +1,16 @@
+.red {
+    color:red;
+}
+#blue{
+    color:blue;
+    font-family:arial;
+    font-size: 13px;
+}
+body {
+    background-color:#800000;
+    color:white;
+}
+#pic{
+    width:350px;
+    height:500px;
+}
