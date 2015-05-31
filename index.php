@@ -14,7 +14,7 @@
     <img src="self.jpg" alt="Sarah" id="pic">
 
 
-    <h2 class="yellow">Connect With Me!</h2>
+    <h2 class="yellow">Contact Information</h2>
     <table>
         <tr>
             <td >Email: </td>
