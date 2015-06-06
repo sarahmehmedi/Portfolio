@@ -44,7 +44,7 @@
         <div id="tabs-4">
 
             <h2 class="yellow">Contact Information</h2>
-            <table>
+            <table id="table-font">
                 <tr>
                     <td >Email: </td>
                     <td >sarahmehmedi@gmail.com </td>
