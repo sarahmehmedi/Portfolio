@@ -87,7 +87,7 @@
         <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
                 <h3>About</h3>
-                <p>Hi! My name is Sarah Mehmedi and I am currently studying Computer Science at Loyola University in Chicago. My interests include development of the front end because it is great to see the progress and developing applications. I strive to make everything functional by fixing all of the imperfections.</p>
+                <p>Hi! My name is Sarah Mehmedi and I am currently studying Computer Science at Loyola University in Chicago. My interests include front end development and developing stable applications. I strive to make everything functional and appealing by fixing all of the imperfections.</p>
                 <img src="self.jpg" alt="Sarah" id="pic">
                 <a href="https://www.linkedin.com/pub/sarah-mehmedi/79/482/5b7" target= "_blank" style="text-decoration:none;"><span style="font: 100% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Sarah Mehmedi's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View My Profile</span></a>
 
