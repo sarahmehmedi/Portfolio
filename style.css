@@ -11,8 +11,8 @@
     color:teal;
 }
 body {
-    background-color:#800000;
     color:white;
+    background:#800000;
     font-family:arial;
 }
 #pic{
@@ -27,48 +27,7 @@ body {
     color:black;
 }
 
-/*----- Tab Links -----*/
-/* Clearfix */
-.tab-links:after {
-    display:block;
-    clear:both;
-    content:'';
-}
-
-.tab-links li {
-    margin:0px 5px;
-    float:left;
-    list-style:none;
-}
-
-.tab-links a {
-    padding:9px 15px;
-    display:inline-block;
-    border-radius:3px 3px 0px 0px;
-    background:#FFD700;
-    font-size:16px;
-    font-weight:600;
-    color:#333333;
-    transition:all linear 0.15s;
-}
-
-.tab-links a:hover {
-    background:#FFE066;
-    text-decoration:none;
-}
-
-li.active a, li.active a:hover {
-    background:#a64D4D;
-    color:#FFD700;
-}
-
 /*----- Content of Tabs -----*/
-.tab-content {
-    padding:15px;
-    border-radius:3px;
-    box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
-    background:#800000;
-}
 
 .tab {
     display:none;
@@ -77,6 +36,7 @@ li.active a, li.active a:hover {
 .tab.active {
     display:block;
 }
+
 
 
 

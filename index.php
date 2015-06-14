@@ -1,3 +1,4 @@
+<!--
 <html>
 
 	<h1 class="yellow"> Sarah Mehmedi </h1>
@@ -58,37 +59,50 @@
         </div>
     </div>
 
-<!--
-    <div class="tabs">
-        <ul class="tab-links">
-            <li class="active"><a href="#tab1">About</a></li>
-            <li><a href="#tab2">Projects</a></li>
-            <li><a href="#tab3">Resume</a></li>
-            <li><a href="#tab4">Contact</a></li>
+<
+
+-->
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Sarah Mehmedi</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+
+    <div class="container">
+        <h1 id="yellow">Sarah Mehmedi</h1>
+        <ul class="nav nav-pills nav-justified">
+            <li class="active"><a data-toggle="pill" href="#home">About</a></li>
+            <li><a data-toggle="pill" href="#menu1">Projects</a></li>
+            <li><a data-toggle="pill" href="#menu2">Resume</a></li>
+            <li><a data-toggle="pill" href="#menu3">Contact</a></li>
         </ul>
 
         <div class="tab-content">
-            <div id="tab1" class="tab active">
+            <div id="home" class="tab-pane fade in active">
+                <h3>About</h3>
                 <p>Hi! My name is Sarah Mehmedi and I am currently studying Computer Science at Loyola University in Chicago. My interests include development of the front end because it is great to see the progress and developing applications. I strive to make everything functional by fixing all of the imperfections.</p>
                 <img src="self.jpg" alt="Sarah" id="pic">
-
-
                 <a href="https://www.linkedin.com/pub/sarah-mehmedi/79/482/5b7" target= "_blank" style="text-decoration:none;"><span style="font: 100% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Sarah Mehmedi's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View My Profile</span></a>
 
             </div>
-
-            <div id="tab2" class="tab">
-                <h2 class="yellow">Projects</h2>
-                <p>Projects Tab Under Construction</p>
+            <div id="menu1" class="tab-pane fade">
+                <h3>Projects</h3>
+               <p>Projects tab under construction.</p>
             </div>
-
-            <div id="tab3" class="tab">
+            <div id="menu2" class="tab-pane fade">
+                <h3>Resume</h3>
                 <a href="resume.pdf" class="yellow" target="_blank">Click For Resume</a>
             </div>
-
-            <div id="tab4" class="tab">
+            <div id="menu3" class="tab-pane fade">
                 <h2 class="yellow">Contact Information</h2>
-                <table>
+                <table id="table-font">
                     <tr>
                         <td >Email: </td>
                         <td >sarahmehmedi@gmail.com </td>
@@ -101,39 +115,10 @@
             </div>
         </div>
     </div>
-</body>
-</html>
 
-<title > Sarah Mehmedi </title>
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-<h1> Sarah Mehmedi </h1>
-<h2 class="yellow"> About </h2>
-<p>Hi! My name is Sarah Mehmedi and I am currently studying Computer Science at Loyola University in Chicago. My interests include development of the front end because it is great to see the progress and developing applications. I strive to make everything functional by fixing all of the imperfections.</p>
-<h2 class="yellow">
-    <a href="resume.pdf" class="yellow" target="_blank">Click For Resume</a>
-</h2>
+    </body>
+    </html>
 
-
-<img src="self.jpg" alt="Sarah" id="pic">
-
-
-<h2 class="yellow">Contact Information</h2>
-<table>
-    <tr>
-        <td >Email: </td>
-        <td >sarahmehmedi@gmail.com </td>
-    </tr>
-    <tr>
-        <td> Phone: </td>
-        <td >1(630)826-9266</td>
-    </tr>
-</table>
-<a href="https://www.linkedin.com/pub/sarah-mehmedi/79/482/5b7" target= "_blank" style="text-decoration:none;"><span style="font: 100% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Sarah Mehmedi's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View My Profile</span></a>
-
-
--->
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
