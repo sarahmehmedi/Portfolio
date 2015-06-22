@@ -72,11 +72,12 @@
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
     </head>
     <body>
 
     <div class="container">
-        <h1 id="yellow">Sarah Mehmedi</h1>
+        <h1 id="title1">Sarah Mehmedi</h1>
         <ul class="nav nav-pills nav-justified">
             <li class="active"><a data-toggle="pill" href="#home">About</a></li>
             <li><a data-toggle="pill" href="#menu1">Projects</a></li>
@@ -86,22 +87,37 @@
 
         <div class="tab-content">
             <div id="home" class="tab-pane fade in active">
-                <h3>About</h3>
-                <p>Hi! My name is Sarah Mehmedi and I am currently studying Computer Science at Loyola University in Chicago. My interests include front end development and developing stable applications. I strive to make everything functional and appealing by fixing all of the imperfections.</p>
+                <h2>About</h2>
+                <p id="about">Hi! My name is Sarah Mehmedi and I am currently studying Computer Science at Loyola University in Chicago. My interests include front end development and developing stable applications. I strive to make everything functional and appealing by fixing all of the imperfections.</p>
                 <img src="self.jpg" alt="Sarah" id="pic">
                 <a href="https://www.linkedin.com/pub/sarah-mehmedi/79/482/5b7" target= "_blank" style="text-decoration:none;"><span style="font: 100% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Sarah Mehmedi's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View My Profile</span></a>
 
             </div>
             <div id="menu1" class="tab-pane fade">
-                <h3>Projects</h3>
-               <p>Projects tab under construction.</p>
+
+                <h2 id="constr">Projects tab currently under construction.
+                    </h2>
+                <h2 id="constr">Thank you for your patience.</h2>
+                <h3 class="bold">Sudoku - C#</h3>
+                <h4 class="underline">Description</h4>
+                <UL>
+                <LI class="projects">Users entered difficulty and a board would be generated, then they would try and solve the puzzle</LI>
+                <LI class="projects">Included a class designed to help the users out by asking if they wanted a hint, a solution, or give up</LI>
+               </UL>
+                <h3 class="bold">Six Degrees of Separation - C++</h3>
+                <h4 class="underline">Description</h4>
+               <UL>
+                <LI class="projects">Modernized version of Six Degrees of Kevin Bacon - we used Channing Tatum as starting point</LI>
+                <LI class="projects">Uses graphs data structures and breadth-first search to return the number of connections each actor has</LI>
+                <LI class="projects">Asks user for an actor input and returned the movies and actors that connected</LI>
+               </UL>
             </div>
             <div id="menu2" class="tab-pane fade">
-                <h3>Resume</h3>
-                <a href="resume.pdf" class="yellow" target="_blank">Click For Resume</a>
+                <h2>Resume</h2>
+                <a href="resume.pdf" target="_blank">Click For Resume</a>
             </div>
             <div id="menu3" class="tab-pane fade">
-                <h2 class="yellow">Contact Information</h2>
+                <h2>Contact Information</h2>
                 <table id="table-font">
                     <tr>
                         <td >Email: </td>
@@ -112,6 +128,8 @@
                         <td >1(630)826-9266</td>
                     </tr>
                 </table>
+                <a href="https://www.linkedin.com/pub/sarah-mehmedi/79/482/5b7" target= "_blank" style="text-decoration:none;"><span style="font: 100% Arial,sans-serif; color:#0783B6;"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png" width="20" height="15" alt="View Sarah Mehmedi's LinkedIn profile" style="vertical-align:middle;" border="0">&nbsp;View My Profile</span></a>
+
             </div>
         </div>
     </div>

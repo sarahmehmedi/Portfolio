@@ -36,8 +36,25 @@ body {
 .tab.active {
     display:block;
 }
-
-
+#title1{
+    text-align: center;
+}
+#about{
+    font-size: larger;
+}
+.projects{
+    font-size: larger;
+}
+.bold{
+    font-weight:bold;
+}
+.underline{
+    text-decoration: underline;
+}
+#constr{
+    color:red;
+    text-align: center;
+}
 
 
 
