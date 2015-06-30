@@ -10,10 +10,8 @@
 #title{
     color:teal;
 }
-body {
-    color:white;
-    background:#800000;
-    font-family:arial;
+html, body{
+    background-color: teal;
 }
 #pic{
     width:325px;
