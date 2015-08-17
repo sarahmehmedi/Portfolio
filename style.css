@@ -14,8 +14,12 @@ body{
     background-color: teal;
 }
 #pic{
-    width:325px;
-    height:500px;
+    max-width:50%;
+    max-height:50%;
+}
+#sixdegrees{
+    max-width: 65%;
+    max-height: 65%;
 }
 .tabs {
     width:100%;
@@ -49,8 +53,8 @@ body{
 .underline{
     text-decoration: underline;
 }
-#constr{
-    color:red;
+#headercolor{
+    color:#337ab7;
     text-align: center;
 }
 
