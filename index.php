@@ -33,7 +33,7 @@
             <div id="menu1" class="tab-pane fade">
 
                 <h2 t>Projects</h2>
-
+                <hr class="hrline">
                 <h3 class="bold">Sudoku - C# - Team of 5</h3>
                 <h4 class="underline">Description</h4>
                 <UL>
@@ -46,6 +46,7 @@
                 <img src="sudoku3.jpg" style="float: left; width: 25%; margin-right: 1%; margin-bottom: 0.5em;">
                 <p style="clear: both;">
 
+                <hr class="hrline">
 
                 <h3 class="bold">Six Degrees of Separation - C++ - Team of 2</h3>
                 <h4 class="underline">Description</h4>
