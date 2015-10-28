@@ -550,7 +550,7 @@
 
             <div class="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+               <h1><span>Want To Know More?</span></h1>
 
             </div>
 
