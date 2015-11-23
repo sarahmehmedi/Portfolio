@@ -4,38 +4,28 @@
 <!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
 <head>
 
-   <!--- Basic Page Needs
-   ================================================== -->
+
    <meta charset="utf-8">
 	<title>Sarah Mehmedi</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-   <!-- Mobile Specific Metas
-   ================================================== -->
+
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<!-- CSS
-    ================================================== -->
    <link rel="stylesheet" href="css/default.css">
 	<link rel="stylesheet" href="css/layout.css">
    <link rel="stylesheet" href="css/media-queries.css">
    <link rel="stylesheet" href="css/magnific-popup.css">
 
-   <!-- Script
-   ================================================== -->
 	<script src="js/modernizr.js"></script>
-
-   <!-- Favicons
-	================================================== -->
 	<link rel="shortcut icon" href="favicon.png" >
 
 </head>
 
 <body>
 
-   <!-- Header
-   ================================================== -->
+
    <header id="home">
 
       <nav id="nav-wrap">
@@ -56,7 +46,7 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Sarah Mehmedi</h1>
-            <h3>I'm currently studying computer science at Loyola University. I am interested in front end development, but I am also open to learning new ways to use my major.</h3>
+            <h3>I'm currently a junior studying computer science at Loyola University. My interests lie in developing user-friendly web/mobile applications that are appealing to the majority. I am also open to learning new ways to do things more efficiently and effectively. I am currently seeking a summer internship or co op to further my knowledge and skills in software development. </h3>
             <hr />
             <ul class="social">
                <li><a href="https://www.facebook.com/sarahmehmedi" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -70,11 +60,10 @@
          <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
       </p>
 
-   </header> <!-- Header End -->
+   </header>
 
 
-   <!-- About Section
-   ================================================== -->
+
    <section id="about">
 
       <div class="row">
@@ -111,21 +100,19 @@
                   </p>
                </div>
 
-            </div> <!-- end row -->
+            </div>
 
-         </div> <!-- end .main-col -->
+         </div>
 
       </div>
 
-   </section> <!-- About Section End-->
+   </section>
 
 
-   <!-- Resume Section
-   ================================================== -->
+
    <section id="resume">
 
-      <!-- Education
-      ----------------------------------------------- -->
+
       <div class="row education">
 
          <div class="three columns header-col">
@@ -147,15 +134,14 @@
 
                </div>
 
-            </div> <!-- item end -->
+            </div>
 
-         </div> <!-- main-col end -->
+         </div>
 
-      </div> <!-- End Education -->
+      </div>
 
 
-      <!-- Work
-      ----------------------------------------------- -->
+
 <!--      <div class="row work">
 
          <div class="three columns header-col">
@@ -172,10 +158,7 @@
                   <p class="info">Senior UX Designer <span>&bull;</span> <em class="date">March 2010 - Present</em></p>
 
                   <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+                    tbd
                   </p>
 
                </div>
@@ -190,10 +173,7 @@
                   <p class="info">UX Designer <span>&bull;</span> <em class="date">March 2007 - February 2010</em></p>
 
                   <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                tbd
                   </p>
 
                </div>
@@ -205,8 +185,7 @@
 <!--      </div> <!-- End Work -->
 
 
-      <!-- Skills
-      ----------------------------------------------- -->
+
       <div class="row skill">
 
          <div class="three columns header-col">
@@ -232,17 +211,16 @@
                             
 					</ul>
 
-				</div><!-- end skill-bars -->
+				</div><
 
-			</div> <!-- main-col end -->
+			</div>
 
-      </div> <!-- End skills -->
+      </div>
 
-   </section> <!-- Resume Section End-->
+   </section>
 
 
-   <!-- Portfolio Section
-   ================================================== -->
+
    <section id="portfolio">
 
       <div class="row">
@@ -542,8 +520,7 @@
    </section> <!-- Portfolio Section End-->
 
 
-   <!-- Contact Section
-   ================================================== -->
+
    <section id="contact">
 
          <div class="row section-head">
@@ -631,8 +608,7 @@
    </section> <!-- Contact Section End-->
 
 
-   <!-- footer
-   ================================================== -->
+
    <footer>
 
       <div class="row">
@@ -651,7 +627,7 @@
 
       </div>
 
-   </footer> <!-- Footer End-->
+   </footer>
 
    <!-- Java Script
    ================================================== -->
