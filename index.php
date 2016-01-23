@@ -51,7 +51,8 @@
             <ul class="social">
                <li><a href="https://www.facebook.com/sarahmehmedi" target="_blank"><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://www.twitter.com/sarahmehmedi" target="_blank"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="https://www.linkedin.com/pub/sarah-mehmedi/79/482/5b7" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/sarahmehmedi" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://github.com/sarahmehmedi" target="_blank"><i class="fa fa-github"></i></a></li>
             </ul>
          </div>
       </div>
@@ -619,7 +620,9 @@
             <ul class="social-links">
                <li><a href="https://www.facebook.com/sarahmehmedi" target="_blank"><i class="fa fa-facebook"></i></a></li>
                <li><a href="https://www.twitter.com/sarahmehmedi" target="_blank"><i class="fa fa-twitter"></i></a></li>
-               <li><a href="https://www.linkedin.com/pub/sarah-mehmedi/79/482/5b7" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/sarahmehmedi" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="https://github.com/sarahmehmedi" target="_blank"><i class="fa fa-github"></i></a></li>
+
             </ul>
 
          </div>
