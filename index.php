@@ -206,6 +206,7 @@
                        <li><span class="bar-expand html"></span><em>HTML</em></li>
                        <li><span class="bar-expand css"></span><em>CSS</em></li>
                        <li><span class="bar-expand java"></span><em>Java (currently improving)</em></li>
+                       <li><span class="bar-expand swift"></span><em>Swift (currently improving)</em>></li>
                        <li><span class="bar-expand php"></span><em>PHP (currently improving)</em></li>
                        <li><span class="bar-expand sql"></span><em>SQL (currently improving)</em></li>
                             
