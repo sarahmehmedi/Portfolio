@@ -357,17 +357,17 @@ ul#nav li.current a { color: black; }
   	-webkit-animation: java 2s ease;
 }
 .swift{
-    width: 65%;
+    width: 85%;
     -moz-animation: swift 2s ease;
     -webkit-animation: swift 2s ease;
 }
 .php{
-    width: 55%;
+    width: 90%;
     -moz-animation:php 2s ease;
     -webkit-activelink: php 2s ease;
 }
 .sql{
-    width: 65%;
+    width: 95%;
     -moz-animation: sql 2s ease;
     -webkit-activelink: sql 2s ease;
 }
@@ -401,16 +401,16 @@ ul#nav li.current a { color: black; }
 
 @-moz-keyframes swift{
     0%  { width:0px;}
-    100% {width: 65%;}
+    100% {width: 85%;}
 }
 
 @-moz-keyframes php {
     0%   { width: 0px;  }
-    100% { width: 55%;  }
+    100% { width: 90%;  }
 }
 @-moz-keyframes sql {
     0%   { width: 0px;  }
-    100% { width: 65%;  }
+    100% { width: 95%;  }
 }
 
 @-webkit-keyframes cplusplus {
@@ -439,15 +439,15 @@ ul#nav li.current a { color: black; }
 }
 @-webkit-keyframes swift {
     0%   { width: 0px;  }
-    100% { width: 65%;  }
+    100% { width: 85%;  }
 }
 @-webkit-keyframes php {
     0%   { width: 0px;  }
-    100% { width: 55%;  }
+    100% { width: 90%;  }
 }
 @-webkit-keyframes sql {
     0%   { width: 0px;  }
-    100% { width: 65%;  }
+    100% { width: 95%;  }
 }
 
 /* ------------------------------------------------------------------ */

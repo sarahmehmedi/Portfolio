@@ -46,7 +46,8 @@
       <div class="row banner">
          <div class="banner-text">
             <h1 class="responsive-headline">Sarah Mehmedi</h1>
-            <h3>I'm currently a junior studying computer science at Loyola University. My interests lie in developing user-friendly web/mobile applications that are appealing to the majority. I am also open to learning new ways to do things more efficiently and effectively. I am currently seeking a summer internship or co op to further my knowledge and skills in software development. </h3>
+            <h3>I'm currently a junior studying computer science at Loyola University. My interests lie in developing user-friendly web/mobile applications that are appealing to the majority. I am also open to learning new ways to do things more efficiently and effectively. I am currently seeking a full time position after graduation.
+            </h3>
             <hr />
             <ul class="social">
                <li><a href="https://www.facebook.com/sarahmehmedi" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -130,7 +131,7 @@
                   <p class="info">Bachelors in Computer Science <span>&bull;</span> <em class="date">May 2017</em></p>
 
                   <p>
-                  Classes Taken: Data Structures, Algorithms, Object-Oriented Programming (Android Development), Computer Systems Programming, and Discrete Structures.
+                  Classes Taken: Data Structures, Database Programming, Algorithms, Object-Oriented Programming (Android Development), Software Engineering, Computer Systems Programming,and Discrete Structures.
                   </p>
 
                </div>
@@ -201,15 +202,17 @@
 				<div class="bars">
 
 				   <ul class="skills">
-                       <li><span class="bar-expand cplusplus"></span><em>C++</em></li>
+
                        <li><span class="bar-expand python"></span><em>Python</em></li>
-                       <li><span class="bar-expand csharp"></span><em>C#</em></li>
+                       <li><span class="bar-expand php"></span><em>PHP</em></li>
+                       <li><span class="bar-expand sql"></span><em>MySQL</em></li>
                        <li><span class="bar-expand html"></span><em>HTML</em></li>
                        <li><span class="bar-expand css"></span><em>CSS</em></li>
+                       <li><span class="bar-expand cplusplus"></span><em>C++</em></li>
+                       <li><span class="bar-expand csharp"></span><em>C#</em></li>
                        <li><span class="bar-expand java"></span><em>Java (currently improving)</em></li>
                        <li><span class="bar-expand swift"></span><em>Swift (currently improving)</em>></li>
-                       <li><span class="bar-expand php"></span><em>PHP (currently improving)</em></li>
-                       <li><span class="bar-expand sql"></span><em>SQL (currently improving)</em></li>
+
                             
 					</ul>
 
